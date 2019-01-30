@@ -216,7 +216,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 738120320}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 256.2, y: -69, z: 0}
+  m_LocalPosition: {x: 102.20001, y: -69, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 771030910}
@@ -224,7 +224,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.59800005, y: 0.5}
-  m_AnchoredPosition: {x: 217, y: -69}
+  m_AnchoredPosition: {x: 63, y: -69}
   m_SizeDelta: {x: 821.9, y: 189.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &738120322
@@ -259,9 +259,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Hello World.
-
-'
+  m_Text: Hello World, it's me!
 --- !u!222 &738120323
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -351,7 +349,7 @@ RectTransform:
   m_GameObject: {fileID: 771030906}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 974, y: 533, z: 90}
-  m_LocalScale: {x: 0.98543847, y: 0.98543847, z: 0.98543847}
+  m_LocalScale: {x: 0.7390788, y: 0.7390788, z: 0.7390788}
   m_Children:
   - {fileID: 738120321}
   m_Father: {fileID: 0}
